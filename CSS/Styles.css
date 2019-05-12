@@ -1,3 +1,21 @@
-nav{
-  
+header nav{
+float: right;
+margin-top: 10px;
+}
+p{
+  background-color: grey;
+}
+.box{
+  background-color: brown;
+}
+#showcase{
+  min-height: 400px;
+}
+body{
+  padding: 0;
+  margin: 0;
+}
+ul{
+  margin:0;
+  padding:0;
 }
